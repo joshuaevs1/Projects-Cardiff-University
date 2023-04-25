@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2e3e56b5-ef57-4c05-8d97-eb389ef115c9",
+    "data": [
+      {
+        "text": "what are the predictions for ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " next ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "userDefined": false
+      },
+      {
+        "text": " against ",
+        "userDefined": false
+      },
+      {
+        "text": "Chelsea",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35116015-6d5a-444d-98c1-5b726a528f58",
+    "data": [
+      {
+        "text": "what are the predictions for ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s next ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

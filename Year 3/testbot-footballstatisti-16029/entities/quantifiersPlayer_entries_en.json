@@ -1,0 +1,114 @@
+[
+  {
+    "value": "most Total Goals",
+    "synonyms": [
+      "most Total Goals",
+      "highest goal scorer",
+      "highest amount of goals",
+      "most goals"
+    ]
+  },
+  {
+    "value": "most Assists",
+    "synonyms": [
+      "most Assists",
+      "highest amount of assists",
+      "most amount of assists"
+    ]
+  },
+  {
+    "value": "most Minutes",
+    "synonyms": [
+      "most Minutes",
+      "highest amount of minutes"
+    ]
+  },
+  {
+    "value": "most Shots",
+    "synonyms": [
+      "most Shots",
+      "highests amount of shots"
+    ]
+  },
+  {
+    "value": "most Lineups",
+    "synonyms": [
+      "most Lineups"
+    ]
+  },
+  {
+    "value": "most Total Tackles",
+    "synonyms": [
+      "most Tackles",
+      "most total tackles",
+      "most tackles"
+    ]
+  },
+  {
+    "value": "most Conceded",
+    "synonyms": [
+      "most Conceded"
+    ]
+  },
+  {
+    "value": "most KeyPasses",
+    "synonyms": [
+      "most KeyPasses"
+    ]
+  },
+  {
+    "value": "most Successful Dribbles",
+    "synonyms": [
+      "most Successful Dribbles"
+    ]
+  },
+  {
+    "value": "most Fouls Drawn",
+    "synonyms": [
+      "most Fouls Drawn"
+    ]
+  },
+  {
+    "value": "most Fouls Committed",
+    "synonyms": [
+      "most Fouls Committed"
+    ]
+  },
+  {
+    "value": "most Yellow Cards",
+    "synonyms": [
+      "most Yellow Cards"
+    ]
+  },
+  {
+    "value": "most Red Cards",
+    "synonyms": [
+      "most Red Cards"
+    ]
+  },
+  {
+    "value": "most Penalties Scored",
+    "synonyms": [
+      "most Penalties Scored"
+    ]
+  },
+  {
+    "value": "most Penalties Saved",
+    "synonyms": [
+      "most Penalties Saved"
+    ]
+  },
+  {
+    "value": "most Saves",
+    "synonyms": [
+      "most Saves"
+    ]
+  },
+  {
+    "value": "most Total Passes",
+    "synonyms": [
+      "most Total Passes",
+      "most passes"
+    ]
+  }
+]

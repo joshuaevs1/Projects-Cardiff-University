@@ -1,0 +1,15 @@
+[
+  {
+    "value": "venueName",
+    "synonyms": [
+      "venue",
+      "where is the game"
+    ]
+  },
+  {
+    "value": "score",
+    "synonyms": [
+      "score of game"
+    ]
+  }
+]

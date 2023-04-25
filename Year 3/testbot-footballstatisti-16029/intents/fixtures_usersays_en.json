@@ -1,0 +1,47 @@
+[
+  {
+    "id": "d05d6dd5-c662-488f-bb70-34c2556854e2",
+    "data": [
+      {
+        "text": "what was ",
+        "userDefined": false
+      },
+      {
+        "text": "the score",
+        "userDefined": false
+      },
+      {
+        "text": " between ",
+        "userDefined": false
+      },
+      {
+        "text": "aston villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "manu",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " the last time they ",
+        "userDefined": false
+      },
+      {
+        "text": "played",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

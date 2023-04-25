@@ -1,0 +1,226 @@
+[
+  {
+    "id": "9413a612-055e-41d2-9af8-d8f675e5705e",
+    "data": [
+      {
+        "text": "who has the ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": "nd ",
+        "userDefined": false
+      },
+      {
+        "text": "most assists",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "Leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d69442c-daab-417c-84ef-0dcb3fc85466",
+    "data": [
+      {
+        "text": "who are the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " players with the ",
+        "userDefined": false
+      },
+      {
+        "text": "most assists",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe6f1dde-c602-438e-bfb5-1cee4518d412",
+    "data": [
+      {
+        "text": "who are the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " players with the ",
+        "userDefined": false
+      },
+      {
+        "text": "most assists",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "Leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0adf7d79-ce00-431e-8cf1-6c428a66dd6a",
+    "data": [
+      {
+        "text": "who has the ",
+        "userDefined": false
+      },
+      {
+        "text": "most assists",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "premier league",
+        "meta": "@Leagues",
+        "alias": "Leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cd081eb-6053-4aad-9974-e529ec9bb2b9",
+    "data": [
+      {
+        "text": "who is the ",
+        "userDefined": false
+      },
+      {
+        "text": "highest goal scorer",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "premier league",
+        "meta": "@Leagues",
+        "alias": "Leagues",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a7de3ea-c395-423b-a6aa-aacb1d97c46f",
+    "data": [
+      {
+        "text": "who is the ",
+        "userDefined": false
+      },
+      {
+        "text": "top goal scorer",
+        "meta": "@quantifiersPlayer",
+        "alias": "quantifiersPlayer",
+        "userDefined": true
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "premier league",
+        "meta": "@Leagues",
+        "alias": "Leagues",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

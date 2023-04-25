@@ -1,0 +1,9 @@
+{
+  "id": "a7698fc8-9f41-4994-ae12-8d89f3dd59ed",
+  "name": "TeamsGoals",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

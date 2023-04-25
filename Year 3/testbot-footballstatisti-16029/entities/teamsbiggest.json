@@ -1,0 +1,9 @@
+{
+  "id": "af5a9ccc-82f4-4dd2-ad29-72532ce26f9d",
+  "name": "teamsbiggest",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

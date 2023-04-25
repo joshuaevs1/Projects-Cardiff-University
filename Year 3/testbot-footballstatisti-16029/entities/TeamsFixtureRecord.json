@@ -1,0 +1,9 @@
+{
+  "id": "d2b1d162-d8e7-47ca-9f5c-cf4dee4fce91",
+  "name": "TeamsFixtureRecord",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

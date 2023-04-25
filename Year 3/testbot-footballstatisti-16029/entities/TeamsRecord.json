@@ -1,0 +1,9 @@
+{
+  "id": "dc8a3aee-fd15-40c2-a6df-03feb1a8a125",
+  "name": "TeamsRecord",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

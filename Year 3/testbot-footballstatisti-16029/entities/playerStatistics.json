@@ -1,0 +1,9 @@
+{
+  "id": "1a4f92ef-4009-4c55-9523-0869ed0ef05b",
+  "name": "playerStatistics",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,159 @@
+[
+  {
+    "value": "Penalties Saved",
+    "synonyms": [
+      "penalties saved",
+      "pens saved"
+    ]
+  },
+  {
+    "value": "Penalties Scored",
+    "synonyms": [
+      "penalties scored",
+      "pens scored"
+    ]
+  },
+  {
+    "value": "Red Cards",
+    "synonyms": [
+      "Red Cards",
+      "red cards"
+    ]
+  },
+  {
+    "value": "Yellow Cards",
+    "synonyms": [
+      "Yellow Cards",
+      "yellow cards"
+    ]
+  },
+  {
+    "value": "Fouls Committed",
+    "synonyms": [
+      "Fouls Committed",
+      "fouls"
+    ]
+  },
+  {
+    "value": "Fouls Drawn",
+    "synonyms": [
+      "Fouled",
+      "fouled"
+    ]
+  },
+  {
+    "value": "Successful Dribbles",
+    "synonyms": [
+      "Successful Dribbles",
+      "dribbles"
+    ]
+  },
+  {
+    "value": "Total Tackles",
+    "synonyms": [
+      "Total Tackles",
+      "tackles"
+    ]
+  },
+  {
+    "value": "Passing Accuracy",
+    "synonyms": [
+      "Passing Accuracy",
+      "passing accuracy"
+    ]
+  },
+  {
+    "value": "Key Passes",
+    "synonyms": [
+      "Key Passes"
+    ]
+  },
+  {
+    "value": "Total Passes",
+    "synonyms": [
+      "Total Passes",
+      "passes"
+    ]
+  },
+  {
+    "value": "Saves",
+    "synonyms": [
+      "Saves",
+      "saves"
+    ]
+  },
+  {
+    "value": "Assists",
+    "synonyms": [
+      "Assists"
+    ]
+  },
+  {
+    "value": "Conceded",
+    "synonyms": [
+      "Conceded"
+    ]
+  },
+  {
+    "value": "Total Goals",
+    "synonyms": [
+      "Total Goals",
+      "goals"
+    ]
+  },
+  {
+    "value": "Shots On Target",
+    "synonyms": [
+      "Shots on target"
+    ]
+  },
+  {
+    "value": "Shots",
+    "synonyms": [
+      "shots"
+    ]
+  },
+  {
+    "value": "Substitutes In",
+    "synonyms": [
+      "Substitutes in"
+    ]
+  },
+  {
+    "value": "Substitutes Out",
+    "synonyms": [
+      "Substitutes out"
+    ]
+  },
+  {
+    "value": "Position",
+    "synonyms": [
+      "Position"
+    ]
+  },
+  {
+    "value": "Minutes",
+    "synonyms": [
+      "Minutes so far"
+    ]
+  },
+  {
+    "value": "Lineups",
+    "synonyms": [
+      "Lineups"
+    ]
+  },
+  {
+    "value": "Appearences",
+    "synonyms": [
+      "Appearences",
+      "played"
+    ]
+  },
+  {
+    "value": "Age",
+    "synonyms": [
+      "Age"
+    ]
+  }
+]

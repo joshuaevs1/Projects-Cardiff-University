@@ -1,0 +1,128 @@
+[
+  {
+    "value": "Streak Wins",
+    "synonyms": [
+      "Streak Wins",
+      "winning streak",
+      "consecutive wins",
+      "unbeaten run",
+      "series of wins",
+      "streak of wins"
+    ]
+  },
+  {
+    "value": "Streak Losses",
+    "synonyms": [
+      "Streak Losses",
+      "Losing Streak",
+      "String of defeats",
+      "losing run",
+      "streak of losses",
+      "series of defeats"
+    ]
+  },
+  {
+    "value": "Streak Draws",
+    "synonyms": [
+      "Streak Draws",
+      "Drawing streak",
+      "consecutive draws",
+      "unbeaten stalemate run",
+      "draws run",
+      "streak of draws"
+    ]
+  },
+  {
+    "value": "Win At Away",
+    "synonyms": [
+      "Win At Away",
+      "biggest away win",
+      "largest road victory",
+      "largest away triumph",
+      "biggest away success",
+      "largest victory away from home"
+    ]
+  },
+  {
+    "value": "Win At Home",
+    "synonyms": [
+      "Win At Home",
+      "Biggest home win",
+      "Largest victory at home",
+      "greatest win at home",
+      "biggest home success",
+      "largest winning margin in a home game",
+      "largest victory in a game played on home turf"
+    ]
+  },
+  {
+    "value": "Loss At Home",
+    "synonyms": [
+      "Loss At Home",
+      "biggest home loss",
+      "leagest defeat at home",
+      "most significant loss at home",
+      "heaviest home defeat",
+      "worst home loss",
+      "greatest defeat in front of home fans",
+      "worst performance at home"
+    ]
+  },
+  {
+    "value": "Loss At Away",
+    "synonyms": [
+      "Loss At Away",
+      "biggest away loss",
+      "largest defeat on the road",
+      "most significant loss away from home",
+      "heaviest away defeat",
+      "worst road loss",
+      "most humilaiating away loss"
+    ]
+  },
+  {
+    "value": "Goals For Home",
+    "synonyms": [
+      "Goals For Home",
+      "most goals scored at home",
+      "largest number of goals at home",
+      "greatest number of goals at home",
+      "biggest home scoring performance"
+    ]
+  },
+  {
+    "value": "Goals For Away",
+    "synonyms": [
+      "Goals For Away",
+      "most goals scored away",
+      "largest number of goals on the road",
+      "highest away goal tally",
+      "biggest away scoring performance",
+      "most significant away scoring display",
+      "largest goal total in away game",
+      "most dominant away scoring performance"
+    ]
+  },
+  {
+    "value": "Goals Against Home",
+    "synonyms": [
+      "Goals Against Home",
+      "most goals conceded at home",
+      "largest number of goals against home",
+      "greatest home defensive lapse",
+      "highest home goal deficit",
+      "biggest home defensive breakdown",
+      "largest goal total against in a home game"
+    ]
+  },
+  {
+    "value": "Goals Against Away",
+    "synonyms": [
+      "Goals Against Away",
+      "most goals conceded away",
+      "largest number of goals against on the road",
+      "greatest away defensive lapse",
+      "largest goal total against in an away game"
+    ]
+  }
+]

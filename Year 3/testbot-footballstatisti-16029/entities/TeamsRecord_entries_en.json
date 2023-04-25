@@ -1,0 +1,71 @@
+[
+  {
+    "value": "Total Clean Sheets",
+    "synonyms": [
+      "Total Clean Sheets",
+      "clean sheets"
+    ]
+  },
+  {
+    "value": "Clean Sheets At Home",
+    "synonyms": [
+      "Clean Sheets Home",
+      "Clean sheets at home"
+    ]
+  },
+  {
+    "value": "Clean Sheets At Away",
+    "synonyms": [
+      "Clean Sheets Away",
+      "cleaen sheets at away"
+    ]
+  },
+  {
+    "value": "Failed To Score",
+    "synonyms": [
+      "Total Failed To Score",
+      "not scored"
+    ]
+  },
+  {
+    "value": "Failed To Score At Home",
+    "synonyms": [
+      "Failed To Score At Home",
+      "not scored at home"
+    ]
+  },
+  {
+    "value": "Failed To Score Away",
+    "synonyms": [
+      "Failed To Score Away",
+      "not scored at away"
+    ]
+  },
+  {
+    "value": "Total Penalties",
+    "synonyms": [
+      "Total Penalties",
+      "penalties"
+    ]
+  },
+  {
+    "value": "Percentage Penalty Rate",
+    "synonyms": [
+      "Percentage Penalty",
+      "percentage penalty rate"
+    ]
+  },
+  {
+    "value": "Missed Penalties",
+    "synonyms": [
+      "Missed Penalty",
+      "mis"
+    ]
+  },
+  {
+    "value": "Percentage Of Missed Penalties",
+    "synonyms": [
+      "Percentage Missed Penalty"
+    ]
+  }
+]

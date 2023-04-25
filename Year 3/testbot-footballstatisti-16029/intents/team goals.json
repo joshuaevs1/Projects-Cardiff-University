@@ -1,0 +1,87 @@
+{
+  "id": "1afda6ff-57c2-4173-8359-4f3ddae2a1db",
+  "name": "team goals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f2e6339-a438-4596-a9bc-2a1bbbe91a26",
+          "name": "team",
+          "required": true,
+          "dataType": "@team",
+          "value": "$team",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the team name again? Make sure the Team is spelt correctly and currently in the Premier League"
+            },
+            {
+              "lang": "en",
+              "value": "Can you remind me of the name of the Premier League team? Please ensure that you spell it correctly and that the team is currently playing in the Premier League."
+            },
+            {
+              "lang": "en",
+              "value": "I forgot the name of the Premier League team. Could you please tell me the name, ensuring it\u0027s spelt correctly and that the team is currently a part of the Premier League?"
+            },
+            {
+              "lang": "en",
+              "value": "Could you refresh my memory about the name of the Premier League team? Please double-check that the spelling is accurate and that the team is currently competing in the Premier League"
+            },
+            {
+              "lang": "en",
+              "value": "I need to know the name of the Premier League team again. Can you confirm that it\u0027s spelt correctly and that the team is currently in the Premier League?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d8fd8fbf-dd58-49ca-ba2a-c62d720e5aa5",
+          "name": "statistic",
+          "required": true,
+          "dataType": "@TeamsGoals",
+          "value": "$statistic",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a valid statistic"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

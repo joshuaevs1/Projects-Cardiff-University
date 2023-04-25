@@ -1,0 +1,9 @@
+{
+  "id": "3d9451b2-359d-4e0a-a4d4-a5dcd5279725",
+  "name": "Leagues",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

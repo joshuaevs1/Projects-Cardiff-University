@@ -1,0 +1,360 @@
+[
+  {
+    "id": "f294404d-6b4e-4e0a-a2ed-000fceff72de",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "average conceded goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " against ",
+        "userDefined": false
+      },
+      {
+        "text": "Arsenal",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72b4824a-9b50-415e-8aa2-1e8d364a7351",
+    "data": [
+      {
+        "text": "what is the average ",
+        "userDefined": false
+      },
+      {
+        "text": "goals scored home",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Arsenal",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6c43b8b-72b5-4e15-8a0d-686b149114e1",
+    "data": [
+      {
+        "text": "Can you",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the number of ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": false
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "Aston Villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " has scored this season?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee587c2-8738-4b09-8f25-dd2d8fcf4696",
+    "data": [
+      {
+        "text": "What is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Aston Villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "netted this season",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4444bb2-3113-48f3-b412-993326ac5f2a",
+    "data": [
+      {
+        "text": "what is the total number of ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "userDefined": false
+      },
+      {
+        "text": " that ",
+        "userDefined": false
+      },
+      {
+        "text": "Aston Villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "conceded",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " this season",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a678ec36-9203-4ff9-8838-8615731e56f1",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "total goals conceded",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Aston Villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " had ",
+        "userDefined": false
+      },
+      {
+        "text": "so",
+        "userDefined": false
+      },
+      {
+        "text": " far this season",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70a32327-3cb1-4fb9-b2e9-7fee043873ce",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Aston Villa",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " scored this season?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ce25176-96c9-4b3b-a301-85124bd56ba3",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Liverpool",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " scored this season?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe261e97-a1ec-4c13-a52c-8fef3e5cbe0f",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "Tottenham",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " scored?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da4b35f-da10-4d96-bec5-d9ebbd66d524",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "goals",
+        "meta": "@TeamsGoals",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " has ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " scored this season?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

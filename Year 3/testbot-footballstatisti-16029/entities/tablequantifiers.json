@@ -1,0 +1,9 @@
+{
+  "id": "f2500067-e624-4deb-b5f0-821bf8202ce6",
+  "name": "tablequantifiers",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

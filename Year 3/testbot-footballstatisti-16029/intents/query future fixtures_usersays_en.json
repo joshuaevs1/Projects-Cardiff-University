@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c6bf3ed9-0cba-46a9-9752-646a0fc1f805",
+    "data": [
+      {
+        "text": "when is ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester City",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s next game?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "832dde4b-d279-4a5b-b714-689d002c28cf",
+    "data": [
+      {
+        "text": "when do ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester city",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "play",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team1",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

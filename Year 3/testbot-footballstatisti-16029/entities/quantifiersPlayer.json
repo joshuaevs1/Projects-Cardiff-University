@@ -1,0 +1,9 @@
+{
+  "id": "6d25aeb4-dc99-4a15-bb0e-87b02ecb0607",
+  "name": "quantifiersPlayer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

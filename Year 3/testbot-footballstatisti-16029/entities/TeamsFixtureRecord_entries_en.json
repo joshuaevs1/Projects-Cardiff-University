@@ -1,0 +1,97 @@
+[
+  {
+    "value": "Total",
+    "synonyms": [
+      "Total played",
+      "how many total games played"
+    ]
+  },
+  {
+    "value": "Home",
+    "synonyms": [
+      "Total Home games played",
+      "Total Home games",
+      "home games"
+    ]
+  },
+  {
+    "value": "Away",
+    "synonyms": [
+      "Total away",
+      "Total Away games played",
+      "Total away games",
+      "away games"
+    ]
+  },
+  {
+    "value": "Total Wins",
+    "synonyms": [
+      "total wins",
+      "Total wins",
+      "wins this season",
+      "wins"
+    ]
+  },
+  {
+    "value": "Total Losses",
+    "synonyms": [
+      "total losses",
+      "Total losses",
+      "lost",
+      "losses"
+    ]
+  },
+  {
+    "value": "Wins Home",
+    "synonyms": [
+      "Wins at home",
+      "Wins home",
+      "won at home"
+    ]
+  },
+  {
+    "value": "Wins Away",
+    "synonyms": [
+      "Wins at Away",
+      "Wins away",
+      "won at away",
+      "won away",
+      "wins away"
+    ]
+  },
+  {
+    "value": "Losses Home",
+    "synonyms": [
+      "Losses at home",
+      "Losses home",
+      "lost at home",
+      "lost home"
+    ]
+  },
+  {
+    "value": "Losses Away",
+    "synonyms": [
+      "Losses at Away",
+      "Losses Away",
+      "lost at away",
+      "lost away"
+    ]
+  },
+  {
+    "value": "Draws Home",
+    "synonyms": [
+      "Draws at Home",
+      "Draws home",
+      "draws at home",
+      "draws home"
+    ]
+  },
+  {
+    "value": "Draws Away",
+    "synonyms": [
+      "draws at away",
+      "draws away",
+      "drew"
+    ]
+  }
+]

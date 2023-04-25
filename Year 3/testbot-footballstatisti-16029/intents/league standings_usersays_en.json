@@ -1,0 +1,348 @@
+[
+  {
+    "id": "a891597d-5ed7-48f5-9e36-fc3668f03452",
+    "data": [
+      {
+        "text": "can you give me a list of the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " teams in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      },
+      {
+        "text": " currently?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61f6a67d-bc04-482f-be46-5ad309c3b723",
+    "data": [
+      {
+        "text": "can you tell me which teams are in the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8369530b-ff8b-4a30-843a-729988007498",
+    "data": [
+      {
+        "text": "who holds the ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "rd position in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87428dd0-eaa2-409b-a1f9-fbcddeff5532",
+    "data": [
+      {
+        "text": "can you tell me who is currently ranked ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98257647-2796-4b5d-8c31-b25d848a6dec",
+    "data": [
+      {
+        "text": "who is currently ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "rd in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8380e530-4764-42fe-904e-1f44cbd9e64a",
+    "data": [
+      {
+        "text": "who are the ",
+        "userDefined": false
+      },
+      {
+        "text": "bottom",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " teams in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f3110b1-252e-477f-b329-e0047d9c7118",
+    "data": [
+      {
+        "text": "what team is at the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      },
+      {
+        "text": " Table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cf99510-1cb1-4c1a-a62e-2936422b1261",
+    "data": [
+      {
+        "text": "what team is ",
+        "userDefined": false
+      },
+      {
+        "text": "bottom",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72e72138-6cd4-4ea3-a5a8-bb39b2d93939",
+    "data": [
+      {
+        "text": "who are the ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " teams in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42a5158d-edcc-4db4-9743-4a958a8fbee8",
+    "data": [
+      {
+        "text": "who is currently ",
+        "userDefined": false
+      },
+      {
+        "text": "top",
+        "meta": "@tablequantifiers",
+        "alias": "tablequantifiers",
+        "userDefined": true
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Premier League",
+        "meta": "@Leagues",
+        "alias": "leagues",
+        "userDefined": false
+      },
+      {
+        "text": " table",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

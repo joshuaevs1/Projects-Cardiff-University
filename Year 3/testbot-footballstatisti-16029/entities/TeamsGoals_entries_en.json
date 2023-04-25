@@ -1,0 +1,112 @@
+[
+  {
+    "value": "Total For",
+    "synonyms": [
+      "Total For",
+      "Total goals",
+      "goals"
+    ]
+  },
+  {
+    "value": "Total Against",
+    "synonyms": [
+      "Total Against",
+      "total goals against",
+      "total goals conceded",
+      "conceded"
+    ]
+  },
+  {
+    "value": "Total Home",
+    "synonyms": [
+      "Total Home",
+      "Total goals on home turf",
+      "combined home goals",
+      "aggregate home goals",
+      "net home goals",
+      "collective home goals"
+    ]
+  },
+  {
+    "value": "Avg Home",
+    "synonyms": [
+      "Avg Home",
+      "Home goal scoring average",
+      "typical home goals per match",
+      "home goals per game average",
+      "standard home goals scored",
+      "regular home team goals",
+      "average goals home"
+    ]
+  },
+  {
+    "value": "Avg Away",
+    "synonyms": [
+      "Avg Away",
+      "Away average goals scored",
+      "away goals scoring average",
+      "typical away goals per match",
+      "standard away goals scored",
+      "average away goals"
+    ]
+  },
+  {
+    "value": "Against Home",
+    "synonyms": [
+      "Against Home",
+      "home goals conceded",
+      "goals allowed at home",
+      "home goals against",
+      "home goals admitted",
+      "home goals leaked",
+      "conceded home",
+      "against home goals scored"
+    ]
+  },
+  {
+    "value": "Against Away",
+    "synonyms": [
+      "Against Away",
+      "away goals conceded",
+      "away goals against",
+      "away goals admitted",
+      "away goals leaked",
+      "against away goals scored"
+    ]
+  },
+  {
+    "value": "Avg Against Home",
+    "synonyms": [
+      "Avg Against Home",
+      "home average goals conceded",
+      "average home team goals conceded",
+      "home goals conceded average",
+      "typical home goals conceded per match",
+      "home goals conceded per game average"
+    ]
+  },
+  {
+    "value": "Avg Against Away",
+    "synonyms": [
+      "Avg Against Away",
+      "away average goals conceded",
+      "average away team goals conceded",
+      "away goals conceded average",
+      "typical away goals conceded per match",
+      "away goals conceded per game average"
+    ]
+  },
+  {
+    "value": "Total Away",
+    "synonyms": [
+      "Total Away",
+      "overall away goals",
+      "total away goals",
+      "aggregate away goals",
+      "combined away goals",
+      "cumulative away team goals",
+      "sum of away goals",
+      "away game total goals"
+    ]
+  }
+]

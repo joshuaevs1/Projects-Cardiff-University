@@ -1,0 +1,310 @@
+[
+  {
+    "id": "5abcea3d-2910-4ed2-bdaf-4cd716a58c79",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "penalties",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " had ",
+        "userDefined": false
+      },
+      {
+        "text": "this season",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0337d91f-ee16-4af3-9002-6294698d5b84",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "percentage penalty rate",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a289b487-e4af-4404-acea-c05d068fca9c",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " times have ",
+        "userDefined": false
+      },
+      {
+        "text": "Liverpool",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "failed to score away",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "906a7667-ee9a-46e9-8119-a76c24cd058f",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " times have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "failed to score at home",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c01da445-7020-4c2e-a30a-bf6f720e7ab4",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " times have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "failed to score",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdcaa09c-92f0-47a9-a00b-a88a7eee47b7",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clean sheets at home",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "userDefined": false
+      },
+      {
+        "text": " had ",
+        "userDefined": false
+      },
+      {
+        "text": "this season",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "975b1394-fe27-41ca-b2dd-8d41e8addd25",
+    "data": [
+      {
+        "text": "how many",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "clean sheets",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " had ",
+        "userDefined": false
+      },
+      {
+        "text": "this season",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba2d2073-207a-4e7f-97bb-78fe8c6edec9",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "total clean sheets",
+        "meta": "@TeamsRecord",
+        "alias": "teamsrecord",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " had ",
+        "userDefined": false
+      },
+      {
+        "text": "this season",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

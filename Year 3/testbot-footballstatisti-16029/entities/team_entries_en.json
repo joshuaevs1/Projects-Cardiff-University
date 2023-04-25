@@ -1,0 +1,152 @@
+[
+  {
+    "value": "Manchester United",
+    "synonyms": [
+      "Manchester United",
+      "manu",
+      "manchester united"
+    ]
+  },
+  {
+    "value": "Chelsea",
+    "synonyms": [
+      "Chelsea",
+      "chelsea"
+    ]
+  },
+  {
+    "value": "Liverpool",
+    "synonyms": [
+      "Liverpool",
+      "liverpool"
+    ]
+  },
+  {
+    "value": "Arsenal",
+    "synonyms": [
+      "Arsenal",
+      "arsenal"
+    ]
+  },
+  {
+    "value": "Aston Villa",
+    "synonyms": [
+      "Aston Villa",
+      "villa",
+      "aston villa"
+    ]
+  },
+  {
+    "value": "Bournemouth",
+    "synonyms": [
+      "Bournemouth",
+      "bournemouth"
+    ]
+  },
+  {
+    "value": "Brentford",
+    "synonyms": [
+      "Brentford",
+      "brentford"
+    ]
+  },
+  {
+    "value": "Brighton",
+    "synonyms": [
+      "Brighton",
+      "brighton"
+    ]
+  },
+  {
+    "value": "Crystal Palace",
+    "synonyms": [
+      "Crystal Palace",
+      "palace",
+      "crystal palace"
+    ]
+  },
+  {
+    "value": "Everton",
+    "synonyms": [
+      "Everton",
+      "everton"
+    ]
+  },
+  {
+    "value": "Fulham",
+    "synonyms": [
+      "Fulham",
+      "fulham"
+    ]
+  },
+  {
+    "value": "Leeds",
+    "synonyms": [
+      "Leeds United",
+      "leeds",
+      "leeds united"
+    ]
+  },
+  {
+    "value": "Lecester City",
+    "synonyms": [
+      "Lecester City",
+      "Leicester",
+      "leicester"
+    ]
+  },
+  {
+    "value": "Manchester City",
+    "synonyms": [
+      "Manchester City",
+      "manchester city"
+    ]
+  },
+  {
+    "value": "Newcastle",
+    "synonyms": [
+      "Newcastle United",
+      "Newcastle",
+      "newcastle"
+    ]
+  },
+  {
+    "value": "Southampton",
+    "synonyms": [
+      "Southampton",
+      "southampton"
+    ]
+  },
+  {
+    "value": "Tottenham",
+    "synonyms": [
+      "Tottenham Hotspur",
+      "Tottenham",
+      "tottenham",
+      "tottenham hotspur"
+    ]
+  },
+  {
+    "value": "West Ham",
+    "synonyms": [
+      "West Ham United",
+      "West ham",
+      "West Ham",
+      "west ham"
+    ]
+  },
+  {
+    "value": "Nottingham Forest",
+    "synonyms": [
+      "Nottingham F",
+      "nottingham"
+    ]
+  },
+  {
+    "value": "Wolves",
+    "synonyms": [
+      "Wolverhampton",
+      "Wolves"
+    ]
+  }
+]

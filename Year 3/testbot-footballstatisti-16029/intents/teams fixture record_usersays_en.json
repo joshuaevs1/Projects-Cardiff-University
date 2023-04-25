@@ -1,0 +1,225 @@
+[
+  {
+    "id": "bf9273d3-e3c5-4d20-a5b1-2bd192d8f63b",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "wins at home",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " had?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77bc916e-ba79-4a8f-99ec-26a6bbab28d5",
+    "data": [
+      {
+        "text": "how many times have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester united",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "drew",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffe2899d-e033-42d1-a752-c3dbfa3d205a",
+    "data": [
+      {
+        "text": "how many ",
+        "userDefined": false
+      },
+      {
+        "text": "games",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester united",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "played",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c39e789-3abd-40e7-9b31-fd729ce43eb4",
+    "data": [
+      {
+        "text": "how many times have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester united",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "won away",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebce8cd5-5846-4b90-a02f-47b1ff49aa4a",
+    "data": [
+      {
+        "text": "how many games have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester united",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "won at home",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11eb6d1e-f1e5-41e3-8450-977433aad63f",
+    "data": [
+      {
+        "text": "how many games have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lost this season",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6df844-53a4-491c-a62a-7a9b1bcd599d",
+    "data": [
+      {
+        "text": "how many games have ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "won this season",
+        "meta": "@TeamsFixtureRecord",
+        "alias": "statistic",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

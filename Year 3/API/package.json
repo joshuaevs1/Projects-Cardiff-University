@@ -1,0 +1,10 @@
+{
+    "name": "packages-for-api",
+    "version": "1.0.0",
+    "description": "API dependencies",
+    "dependencies": {
+      "axios": "^0.23.0",
+      "mysql": "^2.18.1"
+    }
+  }
+  

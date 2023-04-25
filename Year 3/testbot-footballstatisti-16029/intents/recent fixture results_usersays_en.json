@@ -1,0 +1,82 @@
+[
+  {
+    "id": "6be6171f-ca73-472f-a105-6e158ed615b6",
+    "data": [
+      {
+        "text": "what was ",
+        "userDefined": false
+      },
+      {
+        "text": "the score",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s last ",
+        "userDefined": false
+      },
+      {
+        "text": "game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e31a835-0805-4ec6-8872-dd1f72556735",
+    "data": [
+      {
+        "text": "what was ",
+        "userDefined": false
+      },
+      {
+        "text": "the score",
+        "userDefined": false
+      },
+      {
+        "text": " when ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester United",
+        "meta": "@team",
+        "alias": "team",
+        "userDefined": false
+      },
+      {
+        "text": " last ",
+        "userDefined": false
+      },
+      {
+        "text": "played",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manchester City",
+        "meta": "@team",
+        "alias": "team1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
