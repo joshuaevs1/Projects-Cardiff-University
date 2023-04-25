@@ -1,6 +1,3 @@
-# CM2305 - 28
-
-Web Application for CM2305
 
 ### Software Requirements
 1. [NodeJS](https://nodejs.org/en/download/) 16.6+
@@ -8,7 +5,7 @@ Web Application for CM2305
 
 ### How to run the website
 1. Install [WAMP](https://www.wampserver.com/en/)
-2. Put CM2305 web files (excluding API folder) to /var/www of WAMP
+2. Put Group_Project web files (excluding API folder) to /var/www of WAMP
 3. You can now open the website in your localhost
 
 ### How to run the API (Required)
