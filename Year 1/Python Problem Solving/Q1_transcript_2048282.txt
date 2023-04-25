@@ -1,0 +1,14 @@
+Python 3.9.1 (v3.9.1:1e5d33e9b9, Dec  7 2020, 12:10:52)
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from Q1_2048282 import *
+>>> game(70, 30)
+(11, 5)
+>>> winProbability(70, 30, 10000)
+0.979
+>>> playerAbilities()
+[(60, 20), (100, 55), (50, 40), (20, 70), (95, 85)]
+>>> plot(playerAbilities())
+>>> simulateMatches(60, 40, 2, 10000)
+9301
+0.9301
