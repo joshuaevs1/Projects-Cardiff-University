@@ -1,6 +1,0 @@
-api/coverage
-coverage.xml
-api/node_modules
-vendor
-.php-cs-fixer.cache
-.env
