@@ -1,0 +1,241 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+article{
+  flex-grow: 1;
+}
+footer{
+  margin-top: auto;
+  flex-grow: 1;
+}
+.imgbox{
+  display:grid;
+  height:100%;
+}
+.center-fit{
+  max-width: 100%;
+  max-height:100vh;
+  margin:auto;
+}
+.center-header{
+  padding-top: 2.5%;
+  text-align: center;
+  font-family: "Century Gothic";
+}
+.intro-p{
+  text-align:center;
+  font-family: "Century Gothic";
+}
+.btn-container{
+  padding-top:2.5%;
+}
+.signup-btns{
+  text-align: center;
+  font-family: "Century Gothic";
+  font-size: 30px;
+}
+.signup-btns li{
+  display: inline;
+  text-align:center;
+  background: #343a40;
+  border-radius: 10px;
+  padding:10px 30px;
+  margin-left: 3%;
+  margin-right:3%;
+}
+.signup-btns li a{
+  text-decoration: none;
+  color: #bfbfbf;
+}
+.signup-btns li a:hover{
+color:#ededed;
+}
+.container{
+  display: block;
+  text-align: left;
+  color: #ededed;
+  font-size: 25px;
+  padding-left: 30%;
+}
+.mappingbox{
+  padding: 1.4% 2% 1%;
+  margin-top:3%;
+  margin-left:2.5%;
+  margin-right:2.5%;
+  border-radius: 8px;
+  text-align: center;
+  background-color: #212121;
+}
+.innerbox{
+  display:inline-block;
+  margin: 0 auto;
+  background-color: #FF0000;
+}
+#map {
+  height: 60vh;
+  width: 90vw;
+}
+.container1{
+  max-width: 1500px;
+  margin: 0% 2% 2%;
+}
+.grid_container{
+padding-top:30px;
+display:grid;
+grid-template-columns: 1fr 1fr 1fr;
+grid-column-gap: 5%;
+grid-row-gap:2.5%;
+padding-left:12%;
+padding-right:5%;
+}
+.grid_container .stat{
+  background-color: #212121;
+  border-radius:8px;
+  width:70%;
+  height:20vh;
+}
+.stat .stat_name{
+  font-size: 20px;
+  color:#ededed;
+  font-family:"Century Gothic";
+  padding-left: 20px;
+  padding-top:15px;
+  min-height:70px;
+}
+.container2{
+  margin: 0% 2% 2%;
+  padding: 0 10px 450px;
+}
+.db_output{
+  margin:0 auto;
+  width:60%;
+  height:50vh;
+  border-radius:8px;
+  background-color: #212121;
+  float:left;
+}
+.chart{
+  width:35%;
+  height:50vh; /* placeholder padding before adding content */
+  border-radius:8px;
+  background-color: #212121;
+  float: right;
+}
+.titles{
+  font-size:20px;
+  color:#ededed;
+  font-family:"Century Gothic";
+  padding-left:30px;
+  padding-top:15px;
+}
+.about, .usersetting{
+  padding: 15px;
+}
+.aboutInfo{
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: justify;
+  text-indent: 1em;
+}
+.enquiry-form-container{
+  position:relative;
+  height:90vh;
+  width:60%;
+  left:20%;
+  margin-top:2%;
+  margin-bottom:10%;
+  border-style: solid;
+  border-color:#212121;
+}
+.enquiry-form{
+  position:absolute;
+  top:10%;
+  left:10%;
+  width:80%;
+  height:600px;
+}
+.enquiry-form input, textarea{
+  width:100%;
+  margin-top:2rem;
+  border:none;
+  border-bottom: 2px solid black;
+  font-family: "Century Gothic";
+}
+.submit-btn{
+  padding:1rem;   
+  text-align: center;
+  background-color:#ffffff;
+  cursor:pointer;
+}
+.submit-btn:hover{
+  opacity:0.7;
+}
+
+.right-align {
+  position: absolute;
+  left:97%;
+  top:25%;
+}
+.usersettingTable {
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+  font-family: "Century Gothic";
+}
+.usersettingTable tr td {
+  width: 500px;
+  height: 70px;
+  border: 1px solid #212121;
+}
+.usersetting_btn { 
+  background-color: #4b4a4a;
+  border: none;
+  border-radius:5px;
+  width: 80px;
+  height: 30px;
+  color: #ededed;
+  cursor: pointer;
+}
+
+.chart-wrapper {
+  width: 550px;
+  height: 500px;
+  margin: 0 auto;
+}
+.stat_value{
+  text-align: left;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.table{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 100;
+}
+.num{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+.num1{
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-weight: medium;
+}
+.right-align2 {
+  position: absolute;
+  left:90%;
+  top:10%;
+}
+.num2{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+}
